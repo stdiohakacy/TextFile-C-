@@ -1,0 +1,9 @@
+C:\Users\Stdioh-Akacy\Desktop\TextFile-C\TextFile-C\bin\Debug\TextFile-C.exe.config
+C:\Users\Stdioh-Akacy\Desktop\TextFile-C\TextFile-C\bin\Debug\TextFile-C.exe
+C:\Users\Stdioh-Akacy\Desktop\TextFile-C\TextFile-C\bin\Debug\TextFile-C.pdb
+C:\Users\Stdioh-Akacy\Desktop\TextFile-C\TextFile-C\obj\Debug\TextFile-C.csprojResolveAssemblyReference.cache
+C:\Users\Stdioh-Akacy\Desktop\TextFile-C\TextFile-C\obj\Debug\TextFile_C.Form1.resources
+C:\Users\Stdioh-Akacy\Desktop\TextFile-C\TextFile-C\obj\Debug\TextFile_C.Properties.Resources.resources
+C:\Users\Stdioh-Akacy\Desktop\TextFile-C\TextFile-C\obj\Debug\TextFile-C.csproj.GenerateResource.Cache
+C:\Users\Stdioh-Akacy\Desktop\TextFile-C\TextFile-C\obj\Debug\TextFile-C.exe
+C:\Users\Stdioh-Akacy\Desktop\TextFile-C\TextFile-C\obj\Debug\TextFile-C.pdb
